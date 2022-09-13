@@ -5,7 +5,6 @@ I work in multiple tasks (Front-end Development, Back-end Development and Devops
 
 Skills: HTML / CSS / JS / PHP / Python / React / SQL
 
-![Header](./your-header-image-name.png)
 
 
 
