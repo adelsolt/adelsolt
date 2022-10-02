@@ -16,10 +16,10 @@ I work in multiple tasks (Front-end Development, Back-end Development and Devops
 
 <h1>IN MY GITHUB I SHOW MY PROJECTS IN : </h1>
 
-<h2>web-development</h2>
-I am working on web development, and in this repository you will see 3 sections:
+<h1>web-development</h1>
+I am working on web development, and in this repository you will see 3 main types of projects:
 <h3>Frontend web development projects</h3>
-  this section shows my frontend projects using HTML, CSS, and JavaScript
+  this section shows my fullfilled frontend projects using HTML, CSS, and JavaScript
   the projects are indexed in three levels
   <ul>
    <li>Entry-level projects</li>
