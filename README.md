@@ -12,7 +12,7 @@ My journey in the world of technology has led me to explore a diverse range of s
 ## Skills
 
 - **Programming Languages:** JavaScript, Python
-- **Web Development:** HTML, CSS, JavaScript (Node.js, Angular.js)
+- **Web Applications Development:** HTML, CSS, JavaScript (Node.js, Angular.js)
 - **Cybersecurity Analyst Skills:** Threat Detection, Vulnerability Assessment, Incident Response, Proactive Security Measures
 - **Python:** Scripting, Automation, Data Analysis
 - **Networking:** Network Device Configuration, Routing, Protocols, Troubleshooting
